@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "636937397657",
+    "project_id": "analyticscrashlytics-d849e",
+    "storage_bucket": "analyticscrashlytics-d849e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636937397657:android:1d65066cd4a999ba6fdf08",
+        "android_client_info": {
+          "package_name": "com.rubenmackin.analyticscrashlytics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMRs5WJh11itKoQRAe_a7bR42n_wSDN_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
